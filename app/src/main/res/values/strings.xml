@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sign Up Basics</string>
+    <string name="userName">Name</string>
+    <string name="loginTitle">Login</string>
+    <string name="userEmail">Email</string>
+    <string name="userPassword">Password</string>
+    <string name="signupTitle">Sign Up</string>
+    <string name="dashboard">Dashboard</string>
+</resources>
